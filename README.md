@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tilek
 
-## I'am a Junior FrontEnd Developer
+## I'am FrontEnd Developer
 
 - ❤️ I like to write code
 - 🎓 I am constantly learning new things
